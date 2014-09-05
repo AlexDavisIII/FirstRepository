@@ -1,4 +1,5 @@
 FirstRepository
 ===============
+<p align="justify">Hello There</p>
 
-My first repository
+Aspiring coder looking to take his skills to a higher level!
